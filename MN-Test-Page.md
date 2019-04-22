@@ -1,0 +1,2 @@
+Image copy-pasting test
+
